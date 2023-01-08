@@ -7,6 +7,8 @@ import sketch from "./constants/sketch.png";
 import sketchColor from "./constants/sketch_color.png";
 import caseStudy from "./constants/case_study.png";
 import adobeIllustrator from "./constants/adobe_illustrator.png";
+import solidworks from "./constants/solidworks.png";
+import fusion360 from "./constants/fusion360.png";
 
 function Projects() {
   const [selectedProject, setSelectedProject] = React.useState(null);
@@ -308,9 +310,9 @@ function Projects() {
               <a class="font--bold" href="https://www.solidworks.com">
                 SolidWorks
               </a>{" "}
-              to design mechanism that holds a pin camera attached to the end of
-              a largnescope. This was a part of my senior biomedical design
-              project.{" "}
+              to design a mechanism that holds a pin camera attached to the end
+              of a laryngoscope as a part of my senior biomedical design
+              project.
             </p>
             <p>
               At MicroElastic, I used{" "}
@@ -320,12 +322,11 @@ function Projects() {
               >
                 Fusion360
               </a>{" "}
-              to design various enclosures for an ultrasound device components.
+              to design various enclosures for ultrasound device components.
             </p>
-            <div class="project-detail-desktop-row">
-              <img src={sketch} />
-              <img src={sketchColor} />
-              <img src={adobeIllustrator} />
+            <div class="project-detail-3d-row">
+              <img src={solidworks} />
+              <img src={fusion360} />
             </div>
           </div>
         );
