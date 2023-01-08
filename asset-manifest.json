@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/peteksener/static/css/main.7dc56ec5.css",
-    "main.js": "/peteksener/static/js/main.bf7132b3.js",
+    "main.js": "/peteksener/static/js/main.d6a1a0ff.js",
     "static/js/787.4f314317.chunk.js": "/peteksener/static/js/787.4f314317.chunk.js",
     "static/media/corner.png": "/peteksener/static/media/corner.314b2c000c87c8457af4.png",
     "static/media/microelastic_website.png": "/peteksener/static/media/microelastic_website.36eadaca15f35e85abaa.png",
@@ -22,11 +22,11 @@
     "static/media/sprite.svg": "/peteksener/static/media/sprite.c4666e14eae53a2315adadbe49f5e507.svg",
     "index.html": "/peteksener/index.html",
     "main.7dc56ec5.css.map": "/peteksener/static/css/main.7dc56ec5.css.map",
-    "main.bf7132b3.js.map": "/peteksener/static/js/main.bf7132b3.js.map",
+    "main.d6a1a0ff.js.map": "/peteksener/static/js/main.d6a1a0ff.js.map",
     "787.4f314317.chunk.js.map": "/peteksener/static/js/787.4f314317.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dc56ec5.css",
-    "static/js/main.bf7132b3.js"
+    "static/js/main.d6a1a0ff.js"
   ]
 }
