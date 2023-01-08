@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/peteksener/static/css/main.7dc56ec5.css",
+    "main.js": "/peteksener/static/js/main.db984d99.js",
+    "static/js/787.4f314317.chunk.js": "/peteksener/static/js/787.4f314317.chunk.js",
+    "static/media/corner.png": "/peteksener/static/media/corner.314b2c000c87c8457af4.png",
+    "static/media/microelastic_website.png": "/peteksener/static/media/microelastic_website.36eadaca15f35e85abaa.png",
+    "static/media/solidworks.png": "/peteksener/static/media/solidworks.be4a394c13113b211f9a.png",
+    "static/media/fusion360.png": "/peteksener/static/media/fusion360.f9250055be373323877e.png",
+    "static/media/figma.png": "/peteksener/static/media/figma.f7611a905d3203cd3589.png",
+    "static/media/divider.png": "/peteksener/static/media/divider.2e0c597ba46a3a988569.png",
+    "static/media/adobe_illustrator.png": "/peteksener/static/media/adobe_illustrator.c53b27ba2f59324cda6f.png",
+    "static/media/case_study.png": "/peteksener/static/media/case_study.a04992a07ff1ac363446.png",
+    "static/media/sketch.png": "/peteksener/static/media/sketch.e406c88cc7efa26c3009.png",
+    "static/media/Overpass-SemiBold.woff": "/peteksener/static/media/Overpass-SemiBold.f0e0deb53073ae2a8c90.woff",
+    "static/media/Overpass-Regular.woff": "/peteksener/static/media/Overpass-Regular.216ffa1c9c3db0986902.woff",
+    "static/media/Overpass-SemiBold.woff2": "/peteksener/static/media/Overpass-SemiBold.0b13f712982c6170258a.woff2",
+    "static/media/Overpass-Regular.woff2": "/peteksener/static/media/Overpass-Regular.55142c436907993a561a.woff2",
+    "static/media/sketch_color.png": "/peteksener/static/media/sketch_color.da35368c4cb1e761f881.png",
+    "static/media/profile.jpg": "/peteksener/static/media/profile.43f5052819e162a060ac.jpg",
+    "static/media/underline.png": "/peteksener/static/media/underline.a11174f35bf00992b819.png",
+    "static/media/sprite.svg": "/peteksener/static/media/sprite.c4666e14eae53a2315adadbe49f5e507.svg",
+    "index.html": "/peteksener/index.html",
+    "main.7dc56ec5.css.map": "/peteksener/static/css/main.7dc56ec5.css.map",
+    "main.db984d99.js.map": "/peteksener/static/js/main.db984d99.js.map",
+    "787.4f314317.chunk.js.map": "/peteksener/static/js/787.4f314317.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc56ec5.css",
+    "static/js/main.db984d99.js"
+  ]
+}
