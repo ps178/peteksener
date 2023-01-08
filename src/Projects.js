@@ -189,10 +189,7 @@ function Projects() {
               </a>
               , HTML and CSS. The website is hosted by Github Pages. Checkout
               the{" "}
-              <a
-                class="font--bold"
-                href="https://www.figma.com/community/file/1193767041538091190"
-              >
+              <a class="font--bold" href="https://github.com/ps178/peteksener">
                 project
               </a>{" "}
               on Github and the layout design on{" "}
